@@ -4,7 +4,7 @@ import Image from "next/image";
 export default function Login() {
   return (
     <main className="min-h-screen flex w-screen">
-      <div className="w-1/2 h-screen bg-slate-900 flex justify-center items-center">
+      <div className="w-1/2 h-screen bg-slate-800 flex justify-center items-center">
         <Image width="600" height="500" alt="saving" src="./saving.svg" />
       </div>
       <div className="w-1/2 h-screen bg-slate-100 flex flex-col items-center justify-center">
